@@ -1,0 +1,27 @@
+_repo: The-Pit-Prop-Syndicate_2013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crofts, Freeman Wills
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '785'
+    url: http://www.gutenberg.org/2009/agents/785
+    wikipedia: http://en.wikipedia.org/wiki/Freeman_Wills_Crofts
+description: Two amateur detectives stumble upon the syndicate's activities of shipping
+  pit props (supports for coal mining equipment) from France to England and uncover
+  a murder case.
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: The Pit Prop Syndicate
+url: http://www.gutenberg.org/ebooks/2013
